@@ -20,7 +20,7 @@ const AnswerTable = (props) => {
 
     return(
         <div className=" table6 my-2">
-            <table className="table table1 table-light">
+            <table className="table table1 table2 table-light">
                 <thead>
                     <tr>
                         <th>Question 1</th>

@@ -116,6 +116,9 @@ display: flex;
     color: white;
     text-align: center;
 }
+.table2{
+    width: 900px;
+}
 
 .table6{
     overflow: auto;
@@ -126,5 +129,8 @@ display: flex;
     color: red;
 }
 
+.form{
+    width: 900px;
+}
 
 

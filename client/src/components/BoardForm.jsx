@@ -39,14 +39,14 @@ const BoardForm = (props) => {
 
 
     return (
-        <div className="marginAuto my-3">
+        <div className="my-3 form">
             <form onSubmit={createMessage}>
                 {errors.map((err, index) => <p key={index} className="error">{err}</p>)}
                 <div className="input-group mb-3">
                     <label>What are some ideas for additional features or user stories that we might add to improve on our project for our portfolio?</label>
                     <textarea className="my-2" value={question1} onChange={(e)=> setQuestion1(e.target.value)} cols="90" rows="5"></textarea>
                 </div>
-                <div>
+                <div className="input-group">
                     <label>How can we improve on our presentation and Q&A skills for when we need to talk to employers about this project?</label>
                     <textarea className="my-2" value={question2} onChange={(e)=> setQuestion2(e.target.value)} cols="90" rows="5"></textarea>
                 </div>
