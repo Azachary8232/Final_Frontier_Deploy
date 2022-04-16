@@ -1,4 +1,5 @@
 # Final Frontier
+![Final Frontier](https://user-images.githubusercontent.com/90228565/163690846-9f723647-f023-4278-be4a-211e7b7b01e3.png)
 > Space themed single page application with various NASA and space fun facts and images..
 > Live demo [_here_](http://3.142.119.4/). <!-- If you have the project hosted somewhere, include the link here. -->
 ## Table of Contents
@@ -34,13 +35,13 @@
 ## Project Status
 Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 Future updates:
 - Improvement to be done 1
 - Improvement to be done 2
 To do:
 - Feature to be added 1
-- Feature to be added 2
+- Feature to be added 2![Final Frontier](https://user-images.githubusercontent.com/90228565/163690846-9f723647-f023-4278-be4a-211e7b7b01e3.png)
+
 
 
 
