@@ -1,4 +1,4 @@
-# Final Fronteir
+# Final Frontier
 > Space themed single page application with various NASA and space fun facts and images..
 > Live demo [_here_](http://3.142.119.4/). <!-- If you have the project hosted somewhere, include the link here. -->
 ## Table of Contents
@@ -20,14 +20,18 @@
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- ReactJS
+- Express
+- MongoDB
+- Node.js
+- NoSQL
+- npm
+- 3js
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Multiple categories to display interesting facts on NASA and space
+- CSS light speed graphics
+- 3d rotating image of planet Earth
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
