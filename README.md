@@ -7,7 +7,7 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
+* [Future Updates](#room-for-improvement)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 ## General Information
@@ -35,7 +35,7 @@
 Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
 ## Room for Improvement
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-Room for improvement:
+Future updates:
 - Improvement to be done 1
 - Improvement to be done 2
 To do:
