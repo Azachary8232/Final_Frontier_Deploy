@@ -3,7 +3,7 @@
 > Live demo [_here_](http://3.142.119.4/). <!-- If you have the project hosted somewhere, include the link here. -->
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Built With](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
