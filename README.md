@@ -9,7 +9,7 @@
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
 * [Future Updates](#room-for-improvement)
-* [Contact](#contact)
+
 <!-- * [License](#license) -->
 ## General Information
 - Application to display the basis of react programming. 
@@ -31,25 +31,9 @@
 ![NASAshuttle](https://user-images.githubusercontent.com/90228565/163691466-ae9b0352-019f-404b-9d0b-15709c653f23.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: continually developing.
 ## Room for Improvement
 Future updates:
-- Improvement to be done 1
-- Improvement to be done 2
-To do:
-- Feature to be added 1
-- Feature to be added 2![Final Frontier](https://user-images.githubusercontent.com/90228565/163690846-9f723647-f023-4278-be4a-211e7b7b01e3.png)
+- Add more planets to rotating solar system
+- Update new NASA features
 
-
-
-
-
-## Contact
-- Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-<!-- You don't have to include all sections - just the one's relevant to your project -->
