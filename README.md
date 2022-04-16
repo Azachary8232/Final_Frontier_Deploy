@@ -12,10 +12,8 @@
 * [Contact](#contact)
 <!-- * [License](#license) -->
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- Application to display the basis of react programming. 
+- Use of API calls to generate updated information
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 ## Built With
 - ReactJS
@@ -30,7 +28,7 @@
 - CSS light speed graphics
 - 3d rotating image of planet Earth
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![NASAshuttle](https://user-images.githubusercontent.com/90228565/163691466-ae9b0352-019f-404b-9d0b-15709c653f23.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 ## Project Status
 Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
